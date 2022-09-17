@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name":"Phan Long",
+        "tel":"090999999",
+        "Permission":"1"
+    },
+    {
+        "id":2,
+        "name":"Jack",
+        "tel":"090999999",
+        "Permission":2
+    },
+    {
+        "id":3,
+        "name":"Ngô Kiến Huy",
+        "tel":"0902121212",
+        "Permission":2
+    },
+    {
+        "id":4,
+        "name":"Lan Ngọc",
+        "tel":"09011111111",
+        "Permission":3
+    },
+    {
+        "id":5,
+        "name":"Kỳ Duyên",
+        "tel":"09033333",
+        "Permission":"3"
+    },
+    {
+        "id":6,
+        "name":"Phan Văn Long",
+        "tel":"09033333",
+        "Permission":3
+    },
+    {
+        "id":7,
+        "name":"Ku Mạnh",
+        "tel":"09033333",
+        "Permission":2
+    }
+]
